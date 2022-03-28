@@ -3,7 +3,8 @@
 ![this is an image](https://naturalhistory.si.edu/sites/default/files/styles/hero/public/media/image/nmnh1807141026resizedcrop.jpg?itok=xPKjIu2i)
 
 ## Hello Everyone!
-In this project, I wanted to get a better understanding of some of the most popular types of museums and how much revenue they bring in. I primarily used SQL to query the data and Tableau to visualize the dataset. I had a few questions about some of the data that I wanted to represent and how I could determine which museums and states generated the highest amount of revenue. 
+In this project, I wanted to get a better understanding of some of the most popular types of museums and how much revenue they bring in. I primarily used SQL to query the data and Tableau to visualize the dataset. I had a few questions about some of the data that I wanted to represent and how I could determine which museums and states generated the highest amount of revenue.
+- You can find my public Tableau dashboard here https://public.tableau.com/app/profile/minh.doan1078/viz/AmericasMuseums/Dashboard1
 
 ## Some questions I had from the data
 1. How much revenue do museums bring in?
